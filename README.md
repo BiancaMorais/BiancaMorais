@@ -1,4 +1,6 @@
-## Ola! Eu sou a Bianca Morais
+## Ola! Eu sou a Bianca Morais!
+
+
  <div>
   <a href="https://github.com/BiancaMorais">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BiancaMorais&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
